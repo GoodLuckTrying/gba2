@@ -19,3 +19,12 @@ In RetroArch:
 
 * Core Options->System->GBA2 Enabled
   
+__Individual Game Notes__
+
+Sword Of Mana
+
+* Press P2 select to join and quit the game, when there is a companion in the party. The AI will take over when P2 is not tagged in.
+
+Double Dragon Advance
+
+* Play "1P Double Dragon Game" to enable couch coop mode. Other game modes are not affected.
